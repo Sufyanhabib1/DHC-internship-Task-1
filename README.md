@@ -23,7 +23,7 @@ The project uses popular Python libraries such as Pandas, Matplotlib, and Seabor
 - Matplotlib
 - Seaborn
 
----
+
 
 Dataset
 The Iris dataset is a well-known dataset in machine learning and data analysis. It contains measurements of iris flowers from three different species:
@@ -65,7 +65,7 @@ Used to observe the distribution of numerical values.
 #### Box Plots
 Used to identify outliers and understand data spread.
 
----
+
 
 ## Learning Outcomes
 By completing this task, the following concepts were learned:
@@ -75,7 +75,7 @@ By completing this task, the following concepts were learned:
 - Data visualization techniques
 - Identifying trends and outliers in datasets
 
----
+
 
 ## Conclusion
 This project provided a basic introduction to exploratory data analysis (EDA) using Python. Visualization techniques helped in understanding feature relationships and distributions within the Iris dataset, which is an important step before applying machine learning models.
